@@ -13,7 +13,7 @@ public class HelloWordController {
     @RequestMapping("/index")
     public String index(){
 
-        return "HelloWord!!!!";
+        return "HelloWord!!!!噢噢噢噢哈哈哈";
     }
 
 }
